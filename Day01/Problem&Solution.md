@@ -29,3 +29,15 @@ Implement the mux logic: Use conditional statements or logical operations to imp
 Assign the output: Assign the selected input to the output port.
 
 End the module: End the module declaration.
+
+Testbench notes:
+
+In Verilog, reg is commonly used to model input and output signals in a testbench. While wire or logic can also be used, reg is often preferred for testbench inputs due to the following reasons:
+
+Procedural Assignments: Testbenches typically involve procedural assignments to change the values of inputs over time. reg is well-suited for procedural assignments, as it allows for easy assignment and change of values using blocking (=) or non-blocking (<=) assignments.
+
+Initial Values: reg allows for easy initialization of input values using blocking assignments in the initial block. This allows you to set the initial values of the inputs before the simulation starts.
+
+Sensitivity to Changes: reg signals are sensitive to changes in the simulation, meaning that any changes to the value of a reg signal will trigger the procedural blocks that depend on it. This behavior is desirable in a testbench, as it allows for the simulation to respond to changes in inputs and drive the design accordingly.
+
+While wire or logic can also be used for testbench inputs, they are more commonly used for interconnecting modules in the design itself. Using reg for testbench inputs helps maintain consistency and clarity in the code, making it easier to understand and modify the testbench as needed.
