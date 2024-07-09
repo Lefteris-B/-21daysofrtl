@@ -4,4 +4,25 @@ Starting my journey with the #21DaysOfRTL course on QuickSilicon! This free prog
 🚀 
 
 ### Day01 [Edaplayground link](https://www.edaplayground.com/x/bMYy)  [Github Link]()
+### Day02 [Edaplayground link](https://www.edaplayground.com/x/PaaM)  [Github Link]()
+### Day03 [Edaplayground link]( )  [Github Link]()
+### Day04 [Edaplayground link]( )  [Github Link]()
+### Day05 [Edaplayground link]( )  [Github Link]()
+### Day06 [Edaplayground link]( )  [Github Link]()
+### Day07 [Edaplayground link]( )  [Github Link]()
+### Day08 [Edaplayground link]( )  [Github Link]()
+### Day09 [Edaplayground link]( )  [Github Link]()
+### Day10 [Edaplayground link]( )  [Github Link]()
+### Day11 [Edaplayground link]( )  [Github Link]()
+### Day12 [Edaplayground link]( )  [Github Link]()
+### Day13 [Edaplayground link]( )  [Github Link]()
+### Day14 [Edaplayground link]( )  [Github Link]()
+### Day15 [Edaplayground link]( )  [Github Link]()
+### Day16 [Edaplayground link]( )  [Github Link]()
+### Day17 [Edaplayground link]( )  [Github Link]()
+### Day18 [Edaplayground link]( )  [Github Link]()
+### Day19 [Edaplayground link]( )  [Github Link]()
+### Day20 [Edaplayground link]( )  [Github Link]()
+### Day21 [Edaplayground link]( )  [Github Link]()
+
 #LearningJourney #RTLDesign #DigitalElectronics #Quicksilicon
