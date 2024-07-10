@@ -9,7 +9,7 @@ Starting my journey with the #21DaysOfRTL course on QuickSilicon! This free prog
 ### Day04 [Edaplayground link](https://www.edaplayground.com/x/S2fM)  [Github Link]()
 ### Day05 [Edaplayground link](https://www.edaplayground.com/x/ZyTC )  [Github Link]()
 ### Day06 [Edaplayground link](https://www.edaplayground.com/x/9F6s)  [Github Link]()
-### Day07 [Edaplayground link]()  [Github Link]()
+### Day07 [Edaplayground link](https://www.edaplayground.com/x/vWxW)  [Github Link]()
 ### Day08 [Edaplayground link]()  [Github Link]()
 ### Day09 [Edaplayground link]()  [Github Link]()
 ### Day10 [Edaplayground link]()  [Github Link]()
