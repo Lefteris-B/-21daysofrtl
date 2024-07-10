@@ -1,5 +1,2 @@
 .gitignore
 chat.rapidgpt
-
-**/.vscode/
-settings.json
